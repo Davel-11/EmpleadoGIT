@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: empleado
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: davel2
+Implementation-Vendor-Id: com.empleado
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/empleado
+Created-By: Maven Integration for Eclipse
+
